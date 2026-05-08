@@ -17,4 +17,4 @@ Web application for managing shared expenses within groups.
 - JavaScript
 
 ## Note
-Developed in collaboration with [Maja Varšava].
+Developed in collaboration with Maja Varšava.
